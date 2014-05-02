@@ -11,8 +11,8 @@ package paqueteNereBea;
  * @author Nerea
  */
 public class ModificadaPorAmbos {
-    public void nuevoMetodo (){
-        System.out.println("Creando un nuevo metodo");
+    public void finMetodo (){
+        System.out.println("Finalizando un nuevo metodo");
     }
     
 }
